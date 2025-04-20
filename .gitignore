@@ -1,0 +1,10 @@
+# Django local DB and session exports
+db.sqlite3
+mysql-db.session.sql
+
+# Byte-compiled / Python caches
+__pycache__/
+*.py[cod]
+
+admin/.dbdata/
+
